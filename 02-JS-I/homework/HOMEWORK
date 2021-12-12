@@ -1,0 +1,6 @@
+HOMEWORK
+Variables: manera en la que guardamos el valor de algo para usarlo despues.
+Strings: cadena de texto que se define entre comillas simples o dobles.
+Funciones (argumentos, return):Herramientas con las cuales calculamos un conjunto de variables.Return: es devolver la operacion contraria a la establecida inicialmente en la funcion. Por ejemplo si dividimos dos numeros, return los va a multiplicar.
+Declaraciones if: con esta funcion verificamos si algo es verdadero o no lo es.
+Valores booleanos (true, false): porviene de la logica, basado en un codigo binario 0,1 (verdadero/falso)
