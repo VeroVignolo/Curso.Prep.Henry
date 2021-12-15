@@ -1,0 +1,4 @@
+Un for en programación se usa cuando queremos repetir un conjunto de instrucciones un número finito de veces.
+&&, es el comando "y" es decir que tiene que haber dos variables verdaderas para q se cumpla una y la otra.
+||, es el comando "o" es decir que se cumple una variable u la otra.
+! es el operador NOT devolverá el valor booleano opuesto de lo que se le pasa.
