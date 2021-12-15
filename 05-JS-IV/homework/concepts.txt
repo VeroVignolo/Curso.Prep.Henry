@@ -1,0 +1,7 @@
+concepts
+* Objetos es una coleccion de propiedades, asocian una propiedad a un valor
+* Propiedades son atributos que definen las caracteristicas de un objeto
+* Métodos son las acciones que puede ejecutar un objeto
+* Bucle `for…in` iteraccion que se repite por cada elemento del arreglo.
+* Notación de puntos vs notación de corchetes. Con notacion de puntos podemos llamar al nombre del objeto. Mientras 
+que con la notacion de corchetes llamamos la notacion de un arreglo. Siempre se debe usar una cadena o un numero entre comillas.

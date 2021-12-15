@@ -1,0 +1,3 @@
+Arrays: 
+    o matrices podemos verlos como contenedores de almacenamiento para colecciones de datos.
+    Podemos agregar a este contenedor cadenas, numeros o booleanos como queramos siempre separados por comas.
